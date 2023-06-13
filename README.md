@@ -14,6 +14,7 @@
 [docker-hbase](https://github.com/big-data-europe/docker-hbase)
 [docker-zeppelin](https://github.com/big-data-europe/docker-zeppelin)  
 [docker-kafka](https://github.com/big-data-europe/docker-kafka)
+[docker-hive](https://github.com/big-data-europe/docker-hive)
 
 ### 数据库
 [Docker MySQL MHA](https://gitee.com/witless/docker-mysql-mha) 
