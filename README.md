@@ -20,5 +20,5 @@
 [cdh5 hive postgres](https://github.com/tilakpatidar/cdh5_hive_postgres)  
 
 ### 数据库
-[Docker MySQL MHA](https://gitee.com/witless/docker-mysql-mha) 
+[Docker MySQL MHA](https://gitee.com/witless/docker-mysql-mha)  
 [PostgreSql](https://gitee.com/zhengqingya/docker-compose/tree/master/Linux/postgresql) 
