@@ -15,7 +15,7 @@
 [docker hbase](https://github.com/big-data-europe/docker-hbase)
 [docker zeppelin](https://github.com/big-data-europe/docker-zeppelin)  
 [docker kafka](https://github.com/big-data-europe/docker-kafka)
-[docker hive](https://github.com/big-data-europe/docker-hive)
+[docker hive](https://github.com/big-data-europe/docker-hive)  
 [greenplum docker compose](https://github.com/akashkroy/greenplum-docker-compose)  
 [bigdata-docker-compose](https://github.com/spancer/bigdata-docker-compose):Apache Hadoop 3.2 Prestodb 0.247 Kafka 2+ Hbase 2.2 Hive 3.1.2 ELK 7.9.1  
 [cdh5 hive postgres](https://github.com/tilakpatidar/cdh5_hive_postgres)  
