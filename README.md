@@ -25,6 +25,7 @@
 [Docker MySQL MHA](https://gitee.com/witless/docker-mysql-mha)  
 [PostgreSql](https://gitee.com/zhengqingya/docker-compose/tree/master/Linux/postgresql)  
 [ClickHouse](https://hub.docker.com/r/bitnami/clickhouse/):ClickHouse is an open-source column-oriented OLAP database management system. Use it to boost your database performance while providing linear scalability and hardware efficiency.  
+[TiDB](https://github.com/pingcap/tidb-docker-compose)  
 
 ### 综合
 [Docker Compose Topic](https://github.com/topics/docker-compose)  
